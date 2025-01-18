@@ -1,5 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.min.css'; // Bootstrap CSS
-import 'bootstrap'; // Bootstrap JS
+import 'bootstrap'; 
 import '@fortawesome/fontawesome-free/css/all.css'; 
 import {output} from "./src/variables"
 import "./src/sass/style.scss"
